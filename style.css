@@ -59,6 +59,7 @@ h2, h3, h4, h5 {
   align-items: center;
   justify-content: center;
   position: relative;
+  top: 69px;
   margin: 0 auto;
   height: 700px;
   width: 1200px;
